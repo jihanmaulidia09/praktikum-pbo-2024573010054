@@ -66,8 +66,9 @@ System.out.println(): Ini adalah konsep dasar untuk menampilkan informasi (nilai
 5. mengimplementasikan kode kedalam file yang sudah dibuat java
 6. jalan kan program untuk melihat hasil akhir
 
-### Screnshoot hasil
-![](laporan/laporan1/gambar/VariabelDemo.png)
+### Screnshoot hasi
+![VariabelDemo](gambar/VariabelDemo.png)
+
 
 ### Analisa dan Pembahasan 
 Struktur dan Lingkup Program
@@ -133,7 +134,8 @@ Penutupan Sumber Daya: Baris input.close(); adalah praktik esensial yang didasar
 6. jalankan ,untuk melihat hasil
 
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/InputOutputDemo.png)
+![InputOutputDemo](gambar/InputOutputDemo.png)
+
 #### Analisa dan pembahasan
 1. Instansiasi Objek Scanner:
    Scanner input = new Scanner(System.in);
@@ -196,7 +198,8 @@ Penutupan Sumber Daya: Baris input.close(); adalah praktik esensial yang didasar
 6. jalankan program untuk melihat hasil
  
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/GradeDemo.png)
+![GradeDemo](gambar/GradeDemo.png)
+
 #### Analisa dan pembahasan 
 Program GradeDemo bertujuan menentukan grade dan keterangan berdasarkan input nilai dari pengguna, berfokus pada mekanisme Kontrol Alur dan Pengambilan Keputusan.
 
@@ -252,7 +255,8 @@ sebagai prinsip Manajemen Sumber Daya untuk merilis stream I/O.
 6. jalankan program untuk melihat hasil
 
 #### Screenshot hasil
-![](laporan/laporan1/gambar/MenuDemo.png)
+![MenuDemo](gambar/MenuDemo.png)
+
 #### Analisa dan pembahasan
 
 Program MenuDemo adalah aplikasi konsol sederhana yang menunjukkan penggunaan struktur switch untuk mengelola menu dan mengambil 
@@ -313,7 +317,8 @@ keputusan berdasarkan pilihan pengguna.
 6. jalankan program untuk melihat hasil
 
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/NestedIfDemo.png)
+![NestedIfDemo](gambar/NestedIfDemo.png)
+
 #### Analisa dan pembahasan 
 1. Kontrol Alur: Percabangan Bersarang (Nested If)
     Teori utamanya adalah Pengambilan Keputusan Bertingkat (Multi-level Decision Making).
@@ -384,7 +389,8 @@ mematuhi teori Kontrol Alur yang terdefinisi.
 
 6. jalankan program untuk melihat hasil
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/FoorLoopDemo.png)
+![FoorLoopDemo](gambar/FoorLoopDemo.png)
+
 #### Analisa dan pembahasan 
 Program ForLoopDemo adalah studi kasus untuk mendemonstrasikan Kontrol Alur Program melalui struktur Perulangan for.
 Tujuannya adalah menjalankan blok kode berulang kali secara terstruktur dan terhitung.
@@ -439,7 +445,8 @@ Tujuannya adalah menjalankan blok kode berulang kali secara terstruktur dan terh
 6. jalankan program untuk melihat hasil
 
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/WhileLoopDemo.png)
+![WhileLoopDemo](gambar/WhileLoopDemo.png)
+
 #### Analisa dan pembahasan
 Perulangan while (Pre-test Loop)
 1. Bagian "Tebak Angka" menggunakan loop while.
@@ -487,7 +494,7 @@ Perulangan while (Pre-test Loop)
 6.jalankan proram untuk melihat hasil
 
 #### Screenshoot hasil
-![](laporan/laporan1/gambar/NestedLoopDemo.png)
+![NestedLoopDemo](gambar/NestedLoopDemo.png)
 
 #### Analisa dan pembahasan  
 Program NestedLoopDemo adalah ilustrasi kunci dari Kontrol Alur Program menggunakan Perulangan Bersarang (Nested Loops).
